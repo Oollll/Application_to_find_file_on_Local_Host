@@ -1,0 +1,12 @@
+﻿  App_to_find_file_on_LH.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(8,21): error C2039: 'filesystem': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\mutex(30,1): message : see declaration of 'std'
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(8,31): error C2878: 'filesystem': a namespace or class of this name does not exist
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(20,30): error C2653: 'fs': is not a class or namespace name
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(20,5): error C2530: 'entry': references must be initialized
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(20,5): error C3531: 'entry': a symbol whose type contains 'auto' must have an initializer
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(20,28): error C2143: syntax error: missing ';' before ':'
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(20,34): error C3861: 'directory_iterator': identifier not found
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(20,68): error C2143: syntax error: missing ';' before ')'
+C:\Users\Oleg\source\repos\App_to_find_file_on_LH\App_to_find_file_on_LH\App_to_find_file_on_LH.cpp(44,5): error C2065: 'cin': undeclared identifier
